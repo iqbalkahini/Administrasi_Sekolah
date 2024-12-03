@@ -1,0 +1,27 @@
+.alert-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.811);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.alert {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.alert button {
+    margin-top: 10px;
+    padding: .5rem;
+    background-color: var(--red);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

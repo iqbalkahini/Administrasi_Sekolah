@@ -1,0 +1,11 @@
+.btn-create {
+    text-align: center;
+    font-size: 1.2rem;
+    padding: .5rem .7rem;
+    background-color: var(--green);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    width: 100%;
+    cursor: pointer;
+}

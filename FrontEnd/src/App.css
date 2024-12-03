@@ -1,0 +1,15 @@
+:root {
+    --blue : #1792e0;
+    --blue-hover : #0a72bd;
+    --red : #ff3146;
+    --red-hover : #f01228;
+    --green : #0abd0a;  
+    --green-hover : #0b8a0c;
+    --yellow : #fbab05;  
+    --yellow-hover : #da8001;  
+}
+
+.Link {
+    text-decoration: none;
+    margin-top: 5px;
+}
